@@ -1,4 +1,6 @@
+![app icon](https://raw.githubusercontent.com/TeMoMuKo/RxJavaBasicAndroidApp/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 # RxJavaBasicAndroidApp
+Sample android app using retrofit with RxJava and RxBinding.
 
 # Build instructions
 * Obtain openweathermap api key (
